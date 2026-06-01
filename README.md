@@ -113,7 +113,7 @@ screenshots/
 
 ## Demo Video
 
-[![Watch Demo](screenshots/demo-thumbnail.png)](https://youtu.be/YOUR_VIDEO_ID)
+[![Watch Demo](screenshots/demo-thumbnail.png)](https://drive.google.com/file/d/1LyVjNPSAutaYL8mawN9G5w5KU4qyqox3/view?usp=sharing)
 
 ---
 
@@ -157,4 +157,3 @@ Bilal Akhlaque
 
 - GitHub: https://github.com/bilalakhlaque
 - LinkedIn: https://linkedin.com/in/bilalaakhlaque
-Project Demo: https://drive.google.com/file/d/1LyVjNPSAutaYL8mawN9G5w5KU4qyqox3/view?usp=sharing
