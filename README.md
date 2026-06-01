@@ -153,7 +153,7 @@ http://localhost:5000
 
 ## Author
 
-Bilal Akhlaque
+Bilal Akhlaque, Ian Michael Hankinson, Edison Luong La, Evan J Langham
 
 - GitHub: https://github.com/bilalakhlaque
 - LinkedIn: https://linkedin.com/in/bilalaakhlaque
