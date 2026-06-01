@@ -97,20 +97,6 @@ This project reinforced concepts related to:
 
 ---
 
-## Screenshots
-
-Screenshots coming soon.
-
-```text
-Recommended:
-screenshots/
-├── dashboard.png
-├── api-testing.png
-├── architecture.png
-```
-
----
-
 ## Demo Video
 
 [![Watch Demo](screenshots/demo-thumbnail.png)](https://drive.google.com/file/d/1LyVjNPSAutaYL8mawN9G5w5KU4qyqox3/view?usp=sharing)
