@@ -99,7 +99,7 @@ This project reinforced concepts related to:
 
 ## Screenshots
 
-[Page 1](screenshots/demo-thumbnail.png)
+[Watch Demo](screenshots/demo-thumbnail.png)
 
 ---
 
