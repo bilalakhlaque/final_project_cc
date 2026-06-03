@@ -97,9 +97,15 @@ This project reinforced concepts related to:
 
 ---
 
+## Screenshots
+
+[Page 1](screenshots/demo-thumbnail.png)
+
+---
+
 ## Demo Video
 
-[![Watch Demo](screenshots/demo-thumbnail.png)](https://drive.google.com/file/d/1LyVjNPSAutaYL8mawN9G5w5KU4qyqox3/view?usp=sharing)
+[![Watch Demo](screenshots/demo_cc_thumbnail.png)](https://drive.google.com/file/d/1LyVjNPSAutaYL8mawN9G5w5KU4qyqox3/view?usp=sharing)
 
 ---
 
